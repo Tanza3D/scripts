@@ -9,4 +9,5 @@ this script is used to create an apache2 vhost for a domain or subdomain
 example : sh create_vhost.sh example.com example
 <br><br>
 you'll need to have certbot installed, and this uses apache2, so it won't work with nginx
+
 this'll restart apache2 for you, so all you need to do is run it and sit back, oh and do one thing in certbot that i dont know how to automate
