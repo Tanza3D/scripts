@@ -3,6 +3,7 @@ helpful scripts i put together for my own use
 
 ## update-discord.sh
 this script updates Discord and Discord Canary on Manjaro and other Linux distros
+
 you'll have to have installed them through another package manager beforehand for everything to register right, i'm pretty sure
 
 ## create-vhost.sh
